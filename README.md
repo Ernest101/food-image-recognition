@@ -6,7 +6,7 @@ The big idea of program is recogniseing fruits and vegetables in pictures. I hav
     data proprocessing and model compiling
     CNN model training
     model's test
-    plot of training hisory
+    plot of training history
     prediction on new picture using best model
 
 
